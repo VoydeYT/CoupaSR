@@ -2,8 +2,9 @@
 This tool automates checking the links in "CoupaLinks.txt" references the Received and Approved Invoice values and verifies that they are all the same value. This program is in beta, there will be bugs.
 
 **To use, you will need the following installed:**
-Python 3.12 (https://www.python.org/downloads/release/python-3122/)
-Chromium (https://developer.chrome.com/docs/chromedriver)
+_-Python 3.12 (https://www.python.org/downloads/release/python-3122/)
+
+-Chromium (https://developer.chrome.com/docs/chromedriver)_
 
 **For repositories you will need: **
 os
