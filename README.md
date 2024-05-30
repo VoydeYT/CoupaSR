@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://ibb.co/SNSnCWC" alt="Logo" width="80" height="80">
+<img src="https://i.ibb.co/LSKt7b7/coupaSR.jpg" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Coupa Receiving Automater</h3>
 <p align="center">
@@ -18,7 +18,7 @@ Services take forever some days, use this tool to automate your Coupa links.
 
  ## About The Project
 
-![Product Screenshot](https://ibb.co/Ydt0PyR)
+![Product Screenshot](https://i.ibb.co/NNLTtmV/Slack-COUPA.png)
 
 Services that we must check as Non-Inventory T3's can be very tedious and just plain old annoying sometimes. So this python script, runs all the provided links from Coupa, references and compares the "Approved Invoiced" and "Received" values. When the values are all returned as the same, it will send a HTTPS POST to the slack link listed, and you've checked services for the day!
  ## Getting Started
